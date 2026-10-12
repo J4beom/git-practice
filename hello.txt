@@ -1,2 +1,1 @@
-Hello Git!update
-feature
+Hello Git! from feature
